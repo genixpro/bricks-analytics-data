@@ -36,3 +36,6 @@ And our worst, basically unusable captures are:
 Additionally, capture 1 used a different naming scheme for its image files. Be careful
 here, because the default alphabetical sorting will create the wrong order for every 
 other frame.
+
+The storemap was done too scale, and all of the grid-lines are lined up exactly
+as where they are in the captures.
