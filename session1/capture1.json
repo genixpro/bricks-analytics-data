@@ -1,0 +1,28 @@
+{
+  "directory": "capture1",
+  "numberOfImages": 74,
+  "annotationsFile": "capture1_processed.json",
+  "cameras": [
+    {
+      "name": "camera1",
+      "x": 0,
+      "y": 0,
+      "width": 640,
+      "height": 480
+    },
+    {
+      "name": "camera2",
+      "x": 640,
+      "y": 0,
+      "width": 640,
+      "height": 480
+    }
+  ],
+  "storeMap": {
+    "x": 0,
+    "y": 480,
+    "width": 1280,
+    "height": 1011
+  }
+}
+
