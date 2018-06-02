@@ -8,14 +8,16 @@
       "x": 0,
       "y": 0,
       "width": 640,
-      "height": 480
+      "height": 480,
+      "direction": "west"
     },
     {
       "name": "camera2",
       "x": 640,
       "y": 0,
       "width": 640,
-      "height": 480
+      "height": 480,
+      "direction": "east"
     }
   ],
   "storeMap": {
