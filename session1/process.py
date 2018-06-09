@@ -4,7 +4,7 @@ import os.path
 import sys
 from PIL import Image
 
-directory = 'capture1'
+directory = 'capture9'
 processedDirectory = directory + "_processed"
 
 if not os.path.exists(processedDirectory):
