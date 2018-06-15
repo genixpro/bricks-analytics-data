@@ -36,7 +36,7 @@
         "height" : 0.148367952522255,
         "bottom" : 0.148367952522255,
         "right" : 0.1421875,
-        "zoneType" : "checkout"
+        "zoneType" : "entry"
     },
     {
         "id" : 4,
@@ -46,7 +46,7 @@
         "height" : 0.148367952522255,
         "bottom" : 0.148367952522255,
         "right" : 0.6265625,
-        "zoneType" : "isle"
+        "zoneType" : "entry"
     },
     {
         "id" : 5,
@@ -56,7 +56,7 @@
         "height" : 0.148367952522255,
         "bottom" : 0.148367952522255,
         "right" : 0.78515625,
-        "zoneType" : "isle"
+        "zoneType" : "entry"
     },
     {
         "id" : 6,
@@ -76,7 +76,7 @@
         "height" : 0.199802176063304,
         "bottom" : 0.348170128585559,
         "right" : 0.1421875,
-        "zoneType" : "checkout"
+        "zoneType" : "entry"
     },
     {
         "id" : 8,
@@ -86,7 +86,7 @@
         "height" : 0.199802176063304,
         "bottom" : 0.348170128585559,
         "right" : 0.30390625,
-        "zoneType" : "checkout"
+        "zoneType" : "entry"
     },
     {
         "id" : 9,
@@ -96,7 +96,7 @@
         "height" : 0.199802176063304,
         "bottom" : 0.348170128585559,
         "right" : 0.4625,
-        "zoneType" : "checkout"
+        "zoneType" : "entry"
     },
     {
         "id" : 10,
@@ -106,7 +106,7 @@
         "height" : 0.199802176063304,
         "bottom" : 0.348170128585559,
         "right" : 0.6265625,
-        "zoneType" : "isle"
+        "zoneType" : "entry"
     },
     {
         "id" : 11,
@@ -136,7 +136,7 @@
         "height" : 0.202769535113749,
         "bottom" : 0.550939663699308,
         "right" : 0.14296875,
-        "zoneType" : "checkout"
+        "zoneType" : "entry"
     },
     {
         "id" : 16,
@@ -146,7 +146,7 @@
         "height" : 0.202769535113749,
         "bottom" : 0.550939663699308,
         "right" : 0.30390625,
-        "zoneType" : "checkout"
+        "zoneType" : "entry"
     },
     {
         "id" : 17,
@@ -156,7 +156,7 @@
         "height" : 0.202769535113749,
         "bottom" : 0.550939663699308,
         "right" : 0.46484375,
-        "zoneType" : "isle"
+        "zoneType" : "entry"
     },
     {
         "id" : 18,
@@ -217,7 +217,7 @@
         "height" : 0.204747774480712,
         "bottom" : 0.75568743818002,
         "right" : 0.46484375,
-        "zoneType" : "isle"
+        "zoneType" : "entry"
     },
     {
         "id" : 25,
@@ -317,7 +317,7 @@
         "height" : 0.148367952522255,
         "bottom" : 0.148367952522255,
         "right" : 0.4625,
-        "zoneType" : "checkout"
+        "zoneType" : "entry"
     },
     {
         "id" : 37,
@@ -327,7 +327,7 @@
         "height" : 0.148367952522255,
         "bottom" : 0.148367952522255,
         "right" : 0.30390625,
-        "zoneType" : "checkout"
+        "zoneType" : "entry"
     }
   ],
   "inventory": [
